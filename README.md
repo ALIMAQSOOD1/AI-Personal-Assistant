@@ -1,6 +1,7 @@
 # Artificial Intelligence Personal Assistant
 
-![Project Logo](https://via.placeholder.com/1200x300.png?text=Artificial+Intelligence+Personal+Assistant)
+![image](https://github.com/user-attachments/assets/06486e10-d19d-4b42-8947-86072df1dd58)
+
 
 ---
 
